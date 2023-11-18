@@ -45,3 +45,5 @@ against your bones knowing
 your own life depends on it;
 and, when the time comes to let it go,
 to let it go. 
+
+"and" counter: 5
